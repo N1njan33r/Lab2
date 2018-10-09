@@ -1,2 +1,7 @@
-# Ignore files
-.vs
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Lab2/v15
+/Lab2/bin/Debug
+/Lab2/obj/Debug
